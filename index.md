@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Machine Learning and Data Preprocessing Solution
 
-You can use the [editor on GitHub](https://github.com/subodhindia/subodh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You find the solutions for different Machine Learning and Deep learning problem...
+We use different Type of Techniques and algorithms for ML based project..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
